@@ -1,0 +1,14 @@
+{
+   "label": "Package Test",
+   "name": "packageTest",
+   "dependencies": [],
+   "configuration":[],
+   "events": [],
+   "metadata": [
+       {
+           "type": "script",
+           "namespace": "api",
+           "path": "/scripts/test.js"
+       }
+   ]
+}
