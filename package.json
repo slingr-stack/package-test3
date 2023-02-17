@@ -9,6 +9,11 @@
            "type": "script",
            "namespace": "api",
            "path": "/scripts/test.js"
-       }
+       },
+     {
+       "type": "script",
+       "namespace": "api",
+       "path": "/scripts/test2.js"
+     }
    ]
 }
