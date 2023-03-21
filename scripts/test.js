@@ -1,8 +1,8 @@
 exports.aaaaa = function (a) {
-    //test
+    //2.0!!!
     return a+a+a+a+a;
 }
 
 exports.something = function () {
-    return "something"; //test-dev
+    return "something"; //2.0!!!
 }
