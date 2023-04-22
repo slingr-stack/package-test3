@@ -3,9 +3,5 @@ exports.aPlusB = function (a, b) {
 }
 
 exports.otherTest = function () {
-    return "other test";
-}
-
-exports.configTest = function () {
-    return config.get("webhooksSharedKey");
+    return "other test 3 ";
 }
