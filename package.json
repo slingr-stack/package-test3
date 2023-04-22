@@ -1,6 +1,6 @@
 {
    "label": "Package Test3",
-   "name": "packageTest3",
+   "name": "testdep",
    "dependencies": [],
    "configuration":[
         {
