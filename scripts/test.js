@@ -1,8 +1,8 @@
-exports.ttttt = function (a) {
-    //2.0!!!
+exports.t3 = function (a) {
+
     return "test3";
 }
 
 exports.something = function () {
-    return "something3"; //2.0!!!
+    return "something3";
 }
