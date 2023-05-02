@@ -8,6 +8,6 @@ exports.something = function () {
 }
 
 exports.doublenested = function () {
-    var value = "Dependency X\n" + dependencies.packagetestt.othertest2.nestedmethod();
+    var value = "Dependency X\n" + dependencies.packageTestt.otherTest2.nestedmethod();
     return value;
 }
