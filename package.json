@@ -3,7 +3,7 @@
    "name": "nesteddep1",
    "dependencies": [    {
      "type": "package",
-     "name": "nested-dep2",
+     "name": "nesteddep2",
      "version": "v1.0.0"
    },{
      "type": "package",
