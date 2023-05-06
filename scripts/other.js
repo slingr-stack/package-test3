@@ -1,5 +1,5 @@
 exports.packageName = function () {
-    return "nested-dep1";
+    return "nesteddep1";
 }
 
 exports.nested1 = function () {
