@@ -1,6 +1,6 @@
 {
    "label": "Package Test3",
-   "name": "nested-dep1",
+   "name": "nesteddep1",
    "dependencies": [    {
      "type": "package",
      "name": "nested-dep2",
