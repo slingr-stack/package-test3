@@ -17,6 +17,11 @@
            "type": "script",
            "namespace": "api",
            "path": "/scripts/other.js"
-       }
+       },
+     {
+       "type": "script",
+       "namespace": "api",
+       "path": "/scripts/dependency.js"
+     }
    ]
 }
