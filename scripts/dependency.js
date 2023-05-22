@@ -9,5 +9,5 @@ exports.setDepMsg = function(value){
 }
 
 exports.callDepService = function () {
-    dependencies.nesteddep2.foo2.serviceTest()
+    return dependencies.nesteddep2.foo2.serviceTest()
 }
