@@ -12,6 +12,12 @@
    }],
    "configuration":[
      {
+       "name": "message",
+       "label": "Message for dependency",
+       "type": "text",
+       "required": false
+     },
+     {
        "name": "authenticationMethod",
        "label": "Authentication Method",
        "required": false,
