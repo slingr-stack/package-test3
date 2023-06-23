@@ -12,6 +12,7 @@ exports.callDepService = function () {
     return dependencies.nesteddep2.foo2.serviceTest()
 }
 exports.function1 = function () {
+    sys.logs.error('function 1');
     sys.ui.sendMessage({
         scope: 'uiService:nesteddep1.oAuth',
         name: 'function1',
