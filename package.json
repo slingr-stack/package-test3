@@ -110,6 +110,11 @@
        "type": "script",
        "namespace": "api",
        "path": "/scripts/dependency.js"
+     },
+     {
+       "type": "uiService",
+       "namespace": "oAuth",
+       "path": "/uiServices/oAuth"
      }
    ]
 }
